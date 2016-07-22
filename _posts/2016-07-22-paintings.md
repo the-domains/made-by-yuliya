@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: '"You and Me" (2010) Mixed media on canvas.'
-datePublished: '2016-07-22T15:50:35.514Z'
-dateModified: '2016-07-22T15:43:17.739Z'
+datePublished: '2016-07-22T16:05:54.293Z'
+dateModified: '2016-07-22T15:56:58.948Z'
 title: ''
 author:
   - name: Yuliya Skurska
@@ -17,7 +17,7 @@ authors: []
 publisher: {}
 starred: false
 url: paintings/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2cba027-187b-4c61-bd04-22d0a8921c5e.jpg)
